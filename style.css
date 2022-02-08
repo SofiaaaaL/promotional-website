@@ -1,0 +1,56 @@
+body {
+  margin: 0px;
+  background-color: #4e8330;
+  font-family: "garamond", serif;
+  font-size: 19px;
+  display: inline-block;
+}
+
+h3 {
+  text-align: center;
+}
+
+
+p {
+  margin-left: 350px;
+  margin-right: 400px;
+  text-align: center;
+}
+
+.heading1 {
+  font-family: "papyrus", fantasy;
+  display: block;
+  position: fixed;
+  background-color: #af5434;
+  margin: 0px;
+  padding-top: 20px;
+  padding-left: 250px;
+  width: 1300px;
+  color: white;
+}
+
+.heading2 {
+  display: inline-block;
+  position: fixed;
+  margin: 0px;
+  padding-top: 30px;
+  padding-left: 850px;
+  color: white;
+}
+
+.poster{
+  display: block;
+  margin-left: 500px;
+  margin-right: 400px;
+  margin-top: 110px;
+  margin-bottom: 20px;
+  border: double white;
+  width: 400px;
+  height: 550px;
+}
+
+.scenes {
+  width: 700px;
+  height: 400px;
+  margin-left: 350px;
+}
